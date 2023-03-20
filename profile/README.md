@@ -10,5 +10,8 @@ Join us in our mission to revolutionize the book industry by creating a digital 
  
  # Website 
  You can access our store website [here](https://bookrypto.com/bookshelf)
+  
+ # Gitbook Documentation 
+ [Gitbook documentation](https://dl-nft-books.gitbook.io/dl-nft-books/) of the first version can help you better understand the purpose of each service.
  
 ![image](https://user-images.githubusercontent.com/95437979/222687278-9258cee3-e472-43f8-addc-094e625cdb7f.png)
